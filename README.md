@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="left">Hi, I am Reza Zare 👋</h2>
 
-<!--
-**rezazare76upwork/rezazare76upwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account is dedicated to showcasing the projects I’ve completed through Upwork and freelance collaborations.  
 
-Here are some ideas to get you started:
+For my full portfolio and more advanced projects, please visit my main GitHub profile:  
+➡ [https://github.com/rezazare76](https://github.com/rezazare76)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Here you will find:
+✔ Projects delivered to Upwork clients  
+✔ Front-end solutions using React, Next.js, and TypeScript  
+✔ UI components and reusable code snippets  
+
+Feel free to explore and check out my work!
